@@ -15,3 +15,7 @@ Dựa trên kết quả hiện tại của file [QA_QC-Job_Market_2026.md](QA_QC
 - Về việc yêu cầu các kỹ năng về AI/LLM/automation-AI (AI tự động hóa), đọc kĩ nội dung tuyển dụng rồi kết luận, kết quả chỉ là có hoặc không, nếu có thì nêu ra dẫn chứng, hiện tại tôi thấy có những tin tuyển dụng không có mà giả sử có
 - Về ngày đăng tin tuyển dụng hiện tại chưa được đúng, cần kiểm tra trên ảnh chụp màn hình và nội dung bài đăng, lấy mốc là 04/06/2025 để ước lượng ngày đăng
 Cập nhật kết quả ở file [QA_QC-Job_Market_2026.md](QA_QC-Job_Market_2026.md) 
+
+2026-06-04T20:06:00+07:00
+Bạn hãy tìm 30 lỗi phần mềm được công bố từ năm 2022 đến 2026. Với điều khiện có lớn hơn hoặc bằng 10 lỗi liên quan đến AI/LLM (ảo giác - hallucination, tiêm mã độc vào prompt - prompt injection, thiên kiến - bias). Mỗi lỗi cần có: link nguồn, mô tả, mức độ nghiêm trọng, hậu quả, giải pháp.
+Câu trả lời được ghi vào trong file [Software_Defect_22_26.md](Software_Defect_22_26.md), văn phong của một bài báo cáo nghiêm túc, có thể tham khảo của [QA_QC-Job_Market_2026.md](QA_QC-Job_Market_2026.md) 
