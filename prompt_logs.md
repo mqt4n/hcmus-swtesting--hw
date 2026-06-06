@@ -8,7 +8,7 @@ Hiện tại, tôi đã tổng hợp được 14 đường dẫn về các công
 Cuối cùng, rút ra cho tôi một kết luận về thị trương QA/QC hiện tại về nhu cầu, vị trí tuyển dụng, mức lương, yêu cầu tuyển dụng thường gặp, và các sinh viên khi mới ra trường cần chuẩn bị tốt những gì để có thể đáp ứng được nhu cầu của thị trường
 Các nội dung trên được cập nhật trực tiếp vào file [QA_QC-Job_Market_2026.md](QA_QC-Job_Market_2026.md)
 
-2026-06-04T17:28:00+07:00
+2026-06-04T19:28:00+07:00
 Dựa trên kết quả hiện tại của file [QA_QC-Job_Market_2026.md](QA_QC-Job_Market_2026.md), tôi thấy các vấn đề sau cần được khắc phục:
 - Không hiển thị các icon, xây dựng văn phong theo một bài báo cáo nghiêm túc
 - Về việc phân tích tác động của AI, tôi cần bạn tập trung vào đọc nội dung công việc trong tin tuyển dụng, Nhận xét ngắn gọn 1 đến 2 câu về việc AI có thể ảnh hưởng như thế nào đến vị trí đó trong tương lai.
@@ -22,3 +22,6 @@ Câu trả lời được ghi vào trong file [Software_Defect_22_26.md](Softwar
 
 2026-06-06T18:58:00+07:00
 Với những nội dung mà tôi đã rà soát, chắt lọc và kiểm tra lại các nguồn tham khảo, bạn hãy format các đường link sao cho dễ nhìn, cập nhật lại phần III bảng tổng hợp với 20 lỗi không còn là 30 lỗi nữa và các nội dung bên dưới sao cho phù hợp
+
+2026-06-06T20:50:00+07:00
+TThiết kế 15 ca kiểm thử cho thiết bị gia dụng là quạt máy không có tính năng hẹn giờ và tăng chiều cao (Mục tiêu / Đầu vào / Các bước / Kết quả mong đợi / Kết quả thực tế / Phán quyết). Thêm giúp tôi cả checklist và test sumary report template dạng bảng.
