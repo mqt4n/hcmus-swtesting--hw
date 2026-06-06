@@ -18,4 +18,7 @@ Cập nhật kết quả ở file [QA_QC-Job_Market_2026.md](QA_QC-Job_Market_20
 
 2026-06-04T20:06:00+07:00
 Bạn hãy tìm 30 lỗi phần mềm được công bố từ năm 2022 đến 2026. Với điều khiện có lớn hơn hoặc bằng 10 lỗi liên quan đến AI/LLM (ảo giác - hallucination, tiêm mã độc vào prompt - prompt injection, thiên kiến - bias). Mỗi lỗi cần có: link nguồn, mô tả, mức độ nghiêm trọng, hậu quả, giải pháp.
-Câu trả lời được ghi vào trong file [Software_Defect_22_26.md](Software_Defect_22_26.md), văn phong của một bài báo cáo nghiêm túc, có thể tham khảo của [QA_QC-Job_Market_2026.md](QA_QC-Job_Market_2026.md) 
+Câu trả lời được ghi vào trong file [Software_Defect_22_26.md](Software_Defect_22_26.md), văn phong của một bài báo cáo nghiêm túc, có thể tham khảo của [QA_QC-Job_Market_2026.md](QA_QC-Job_Market_2026.md)
+
+2026-06-06T18:58:00+07:00
+Với những nội dung mà tôi đã rà soát, chắt lọc và kiểm tra lại các nguồn tham khảo, bạn hãy format các đường link sao cho dễ nhìn, cập nhật lại phần III bảng tổng hợp với 20 lỗi không còn là 30 lỗi nữa và các nội dung bên dưới sao cho phù hợp
