@@ -1,13 +1,13 @@
 MachQuocTan in hcmus-swtesting--hw on   main 
 ❯ git log --graph --all --stat
-* commit 8d1410592310bbc38108eb54bf85ca5243c9d8e5
+* commit 3d8c676118864599b01aee0e6a580934f58f1c18
 | Author: mqt4n <machquoctan2005@gmail.com>
 | Date:   Mon Jun 8 06:46:06 2026 +0700
 | 
 |     docs: update git commit log using git log --graph --all --stat
 | 
-|  commit_log.md | 205 ++++++++++++++++++++++++++++++++++++++++++++++++++++----
-|  1 file changed, 193 insertions(+), 12 deletions(-)
+|  commit_log.md | 216 ++++++++++++++++++++++++++++++++++++++++++++++++++++----
+|  1 file changed, 203 insertions(+), 13 deletions(-)
 | 
 * commit 6c3b7290431487e294b6b6cde28d10c47decfa2a
 | Author: mqt4n <machquoctan2005@gmail.com>
