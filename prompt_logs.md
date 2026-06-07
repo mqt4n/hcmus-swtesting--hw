@@ -85,3 +85,13 @@ bạn hãy giải thích ngắn gọn về lỗi phần mềm của sự kiện 
 
 2026-06-08T01:18:00+07:00
 bạn hãy giải thích ngắn gọn về lỗi phần mềm của sự kiện Okta: Khai Thác Phiên Đăng Nhập Hỗ Trợ Kỹ Thuật
+
+2026-06-08T02:38:00+07:00
+Chỉnh sửa infographic QA/QC trên. Chỉ thay đổi các đoạn text sau, không thay đổi layout, màu sắc hay icon:
+- QA Principles: đổi "Prevent defects" thành "Provide confidence in quality"
+- QA Key Activities: đổi "Defect Prevention" thành "Test Planning & Monitoring"
+- QC Principles: đổi "Reactive approach" thành "Corrective approach"
+- QC Key Activities: xóa "Verification"; đổi "Inspection" thành "Static Review/Inspection"
+- QC Deliverables: thêm "Test Summary Report"
+- Key Differences (phần chú thích cuối): đổi "Static" thành "Proactive" (phía QA)
+  và "Dynamic" thành "Product-focused" (phía QC)
