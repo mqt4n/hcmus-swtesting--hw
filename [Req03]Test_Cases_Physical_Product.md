@@ -47,5 +47,5 @@ Trong file Excel tại tab TestSummaryReport: [File]([Req03]Test_Cases_Physical_
 ## Phần C – Danh Sách Lỗi Phát Hiện
 
 > **Link GitHub Issues:** [https://github.com/mqt4n/hcmus-swtesting--hw/issues](https://github.com/mqt4n/hcmus-swtesting--hw/issues)
-> **Ảnh chụp trang Issues (kèm username GitHub):**
+> **Ảnh chụp trang chứa các Github Issues (kèm username GitHub):**
 ![picture 1](img/issue/01.png)
