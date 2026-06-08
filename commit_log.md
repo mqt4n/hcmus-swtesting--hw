@@ -1,13 +1,14 @@
 MachQuocTan in hcmus-swtesting--hw on   main 
 ❯ git log --graph --all --stat
-* commit b752477f0dbba5d1f8aa0fbcacecf05ee834038f
+* commit 1adb5995dda22e150e3beb21ce40926cecd5e46b
 | Author: mqt4n <machquoctan2005@gmail.com>
 | Date:   Mon Jun 8 06:49:30 2026 +0700
 | 
 |     docs: add fully composed report file composed-report.md
 | 
+|  commit_log.md      |   18 +
 |  composed-report.md | 1931 ++++++++++++++++++++++++++++++++++++++++++++++++++
-|  1 file changed, 1931 insertions(+)
+|  2 files changed, 1949 insertions(+)
 | 
 * commit 8ef81a7682f1f72f0ea0f48b66bf8ba025997c2a
 | Author: mqt4n <machquoctan2005@gmail.com>
